@@ -12,3 +12,12 @@
 ul {
     list-style: none;
 }
+
+.main_box {
+    position: relative;
+    background: url('side.jpg') center no-repeat;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+
